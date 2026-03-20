@@ -1,6 +1,6 @@
 # BeyondPaper — Find Elite Engineers via Open Source Signal
 
-> *SkillSync-inspired talent discovery, powered by a 6-agent AI system. Zero cost. Zero database. Zero Supabase.*
+> *Talent discovery, powered by a 6-agent AI system. Zero cost. Zero database. Zero Supabase.*
 
 ---
 
@@ -69,9 +69,9 @@ User Query (natural language)
 
 ---
 
-## Risk Elimination (the SkillSync insight)
+## Risk Elimination 
 
-| Risk | Traditional Hiring | DevHunt |
+| Risk | Traditional Hiring | BeyondPaper |
 |------|-------------------|---------|
 | Mis-hire | Resume inflation | Real code as signal |
 | Discovery | LinkedIn only | All of GitHub |
@@ -166,8 +166,7 @@ When this takes off:
 
 ## Built for
 
-This project was built for [Hackathon Name] with the goal of funding [NGO Name].
-All proceeds from any commercial success will go toward [NGO mission].
+This project was built for Eighfold AI
 
 ---
 
