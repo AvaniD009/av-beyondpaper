@@ -1,4 +1,4 @@
-# DevHunt — Find Elite Engineers via Open Source Signal
+# BeyondPaper — Find Elite Engineers via Open Source Signal
 
 > *SkillSync-inspired talent discovery, powered by a 6-agent AI system. Zero cost. Zero database. Zero Supabase.*
 
