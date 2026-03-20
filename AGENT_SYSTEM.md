@@ -1,14 +1,9 @@
 # Agent System Architecture
-# SkillSync Clone — Full Agent Pipeline Design
+# Full Agent Pipeline Design
 # ════════════════════════════════════════════════════════════════════════════════
 
-## Philosophy (from SkillSync's own words)
-#
-# "We don't want to classify developers as good/bad. skillsync is about finding
-#  POSSIBILITIES in each contributor — knowing and empathizing with their work."
-#
 # "Open source hides a long tail of QUIET CAPABILITY waiting to be discovered."
-#
+
 # Core insight: the best engineers in hard domains (systems, robotics, infra,
 # compilers) often have no LinkedIn, low follower counts, few stars — but their
 # code tells an entirely different story.
