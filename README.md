@@ -4,7 +4,7 @@
 
 ---
 
-## Why DevHunt Wins
+## Why BeyondPaper Wins
 
 Traditional hiring looks at resumes. DevHunt reads **real open source work**.
 
